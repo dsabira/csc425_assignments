@@ -1,0 +1,10 @@
+/*********************************************
+Your name: Sabira
+Question 2: <total: 7960, free: 4532. My expectation was to have a lower numberÃ>
+Question 4: <the free memory decreases and used increases. When I kill the process,
+ I gain this memory back.
+ Yes, the numbers matched my expectations.
+ When I tested with really big numbers, then it failed to allocate memory because it is larger than the total free memory >
+Question 7: <This output shows the memory mappings and their characteristics for that process. There is executable code and related data; anonymous memory, shared libraries, stack and others.>
+Question 8: <yes, the outcomes match my expectations.Because as I allocate larger memory size and pass it in my arguments, the things like size, Rss, Pss and Anonymous increase in size as well.>
+*********************************************/
